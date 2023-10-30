@@ -2,12 +2,12 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)](https://Ravijhagithub.io)
 <h1 align="cen2fmedia.giphy.com%2fmedia%ter">Hi 👋, I'm Ravi Jha</h1>
-<h3 align="center">I am Coder...</h3>
+<h3 align="center">I am a Coder...</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravijhagithub&label=Profile%20views&color=0e75b6&style=flat" alt="ravijhagithub" /> </p>
 
-- 🌱 I’m currently learning **Programming language**
+- 🌱 I’m currently learning **Programming languages**
 
 - 💬 Ask me about **Coding**
 
