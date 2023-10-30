@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://th.bing.com/th/id/R.db8bd14a8ffe1ac2cb782d376ae2771b?rik=8KHzZk5FSsjeRQ&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fRo2MgOxH9iaVG%2fgiphy.gif&ehk=aCNxX1cZszSTzSogStOMSdkh6UirweqEGM2Mw82MTiM%3d&risl=&pid=ImgRaw&r=0)](https://Ravijhagithub.io)
+[![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)](https://Ravijhagithub.io)
 <h1 align="cen2fmedia.giphy.com%2fmedia%ter">Hi 👋, I'm Ravi Jha</h1>
 <h3 align="center">I am Coder...</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
